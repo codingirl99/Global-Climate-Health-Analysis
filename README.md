@@ -12,3 +12,5 @@ Visualizations Covered within this Tableau analysis include:
   > Bangladesh is leading in waterborne diease incidents at 15,757 incidents while the United Kingdom has the lowest number of waterborne disease incidents at 9,523 incidents.
 4) Precipitation by Region (Bar Chart)
   > Europe, as a region, has the highest amount of precipitation (Germany having the highest precipitation) and Oceania having the least precipitation with 45,310mm.
+5) Food Security Index by Country (Bar Chart)
+  > 
