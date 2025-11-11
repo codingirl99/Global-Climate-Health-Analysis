@@ -7,4 +7,5 @@ Visualizations Covered within this Tableau analysis include:
 1) Air Quality Index by Region (Bar Chart)
 2) Heat Days by Region (Treemap)
 3) Waterborne Disease by Country colored by Region (Bar Chart)
-4) Precipitation 
+4) Precipitation by Region (Bar Chart)
+5) Drought Indicator by Country (Map)
